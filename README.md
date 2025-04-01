@@ -1,4 +1,4 @@
-# Cancer Check App 🏥🔬  
+# Brain Tumor Application 🏥🔬  
 
 An AI-powered web application for brain tumor detection based on deep learning.
 
